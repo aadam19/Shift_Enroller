@@ -1,4 +1,5 @@
 # Polyball Enroller Bot
+![image](https://github.com/user-attachments/assets/d43786df-0157-4859-8273-cc81a09f0da3)
 
 ## Overview
 
